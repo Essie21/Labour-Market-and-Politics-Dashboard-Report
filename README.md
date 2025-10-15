@@ -72,10 +72,10 @@ The dashboard features a clean, data-focused design that correlates national lab
 
 Key Dashboard Components:
 
-Primary KPIs: Current Population (12.87M), Labour Force (8.46M), Average Unemployment Rate (8.21%)
-Historical Trend Analysis: A line chart visualizing the Unemployment Rate Trend from 1976 to 2021, allowing users to observe economic cycles.
-Political Correlation: Interactive filters for Prime Ministers (e.g., Brian Mulroney, Jean Chretien) to analyze how unemployment metrics align with different political tenures.
-Partisan Labour Analysis: A "Labour Force by Party" visualization (likely a bar or stacked bar chart) breaking down the labour force composition or performance during the years Liberal and Conservative parties were in power.
+- Primary KPIs: Current Population (12.87M), Labour Force (8.46M) and Average Unemployment Rate (8.21%)
+- Historical Trend Analysis: A line chart visualizing the Unemployment Rate Trend from 1976 to 2021, allowing users to observe economic cycles.
+- Political Correlation: Interactive filters for Prime Ministers (e.g., Brian Mulroney, Jean Chretien) to analyze how unemployment metrics align with different political tenures.
+- Partisan Labour Analysis: A "Labour Force by Party" visualization (likely a bar or stacked bar chart) breaking down the labour force composition or performance during the years Liberal and Conservative parties were in power.
 
 ---
 
