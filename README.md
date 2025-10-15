@@ -62,7 +62,7 @@ The dataset contains comprehensive sales and customer data of 542 rows and 15 co
 - Dashboard design and visual hierarchy
 
 
--- 
+--- 
 
 ## 📈 Dashboard
 
